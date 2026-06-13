@@ -4,9 +4,7 @@ A shell script that automatically sets up the full workspace for the Student Att
 
 ## How to Run
 
-```bash
 bash setup_project.sh
-```
 
 Follow the prompts:
 1. Enter a project identifier e.g. demo

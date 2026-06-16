@@ -1,7 +1,8 @@
 # deploy_agent_aanyar1-tech
 
 A shell script that automatically sets up the full workspace for the Student Attendance Tracker.
-
+## Demo
+[Watch the demo on Loom](https://www.loom.com/share/6e9bd8f01dc34380a8314d1211b2f3ab)
 ## How to Run
 
 bash setup_project.sh
